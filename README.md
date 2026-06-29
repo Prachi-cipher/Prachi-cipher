@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Full Stack Development and React.js projects also looking to collaborate on Open Source and Web Development projects and looking for help with Backend Development and I'm currently learning Node.js, Express.js, MongoDB and I love building web applications and enjoy learning new technologies every day.
+🔭 I'm currently learning Full Stack Development and also created some projects, looking to collaborate on Open Source and Web Development projects and seeking for help with Backend Development and I love building web applications and enjoy learning new technologies every day.
 
 
 ## 🌐 Socials:
